@@ -1,4 +1,5 @@
-# NVDLA Open Source Hardware, version 1.0
+# NVDLA Open Source Hardware, version 1.0 :::::::::::::::::::::::::::: by qianchao.cw
+
 ---
 
 ## NVDLA
